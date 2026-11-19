@@ -1,0 +1,19 @@
+# Unity recria estas pastas e arquivos ao abrir o projeto.
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/.vs/
+/.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+
+# Exportacoes e arquivos temporarios nao sao codigo-fonte.
+/Build/
+/Builds/
+/*-build.log
+/*.log
+*.zip
